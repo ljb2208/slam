@@ -1,2 +1,0 @@
-/usr/bin/ar qc lib/libslam.a  CMakeFiles/slam.dir/src/util/settings.cpp.o CMakeFiles/slam.dir/src/util/Undistort.cpp.o CMakeFiles/slam.dir/src/util/globalCalib.cpp.o CMakeFiles/slam.dir/src/IO/OpenCV/ImageRW_OpenCV.cpp.o CMakeFiles/slam.dir/src/IO/Pangolin/PGViewer.cpp.o
-/usr/bin/ranlib lib/libslam.a

@@ -1,1 +1,0 @@
-/usr/bin/c++    -O3 -fPIC -g -std=c++0x -march=native   CMakeFiles/dso_dataset.dir/src/main.cpp.o  -o bin/dso_dataset  -L/usr/local/cuda/lib64 -rdynamic 
